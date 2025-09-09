@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Vitor!
 
-✨ Bem-vindo ao meu espaço no GitHub! Aqui é onde transformo ideias em código 🚀, café ☕ em projetos 💻 e desafios em soluções 🛠️.
+✨ Bem-vindo ao meu espaço no GitHub! Aqui é onde transformo ideias em código 🚀 café ☕ em projetos 💻 e desafios em soluções 🛠️.
 
 ---
 
