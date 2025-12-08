@@ -14,17 +14,14 @@
 ---
 
 ## 🚀 Minhas skills
-<details>
-<summary>💡 Clique para ver minhas principais habilidades</summary>
 
-- **Linguagens:** Python, Java, JavaScript  
-- **Banco de Dados:** MySQL  
-- **Frameworks & Ferramentas:** Flask, Node.js, Spring Boot (em aprendizado)  
-- **Desenvolvimento:** CRUD em Python com MySQL, APIs RESTful  
-- **Jogos:** Projetos simples com Pygame
-- **Outros interesses:** automação e fullstack development
-
-</details>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-4BFF4B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTI4IiBoZWlnaHQ9IjEyOCIgdmlld0JveD0iMCAwIDEyOCAxMjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTY0IDFjLTMxIDAtMzIgMTQtMzIgMTR2MzRoNjRWMTRzLTEtMTMtMzItMTN6bS0yMSA0OGMtNiAwLTExIDUtMTEgMTFzNSA5IDExIDkgMTEtNSA5LTExLTUtMTEtMTEtMTF6bTQyIDBjLTYgMC0xMSA1LTExIDExczUgOSAxMSA5IDExLTUgOS0xMS01LTExLTExLTExek02NCAxMjZjLTMxIDAtMzItMTQtMzItMTR2LTMzaDY0djMzczEgMTQgMzIgMTRzMzItMTQgMzItMTR2LTMzaC02NHYzM3MtMSAxNC0zMiAxNHoiIGZpbGw9IiM1Nzk0QkUiLz48L3N2Zz4=)
 
 ---
 
