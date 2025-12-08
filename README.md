@@ -34,10 +34,10 @@ Gosto de criar interfaces, lógicas inteligentes e bancos de dados bem organizad
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| **Sistema de Biblioteca** | CRUD completo com autores, livros e relações N:N | Python, Flask, SQLite |
-| **Sistema de Alunos** | Cadastro, edição, listagem e validação de dados | Python, MySQL |
-| **Agenda Médica** | Sistema com prevenção de conflitos e datas inválidas | Python, SQLite |
-| **Jogos com Pygame** | Jogos 2D divertidos, interativos e otimizados | Pygame |
+| **[PokéDex com APIs](https://github.com/VitorRovaniMarcelino/Pokedex-API)** | Pokédex interativa consumindo dados da PokéAPI | JavaScript, Node.js, REST APIs |
+| **[Ecommerce Eletrônicos](https://github.com/VitorRovaniMarcelino/EcommerceEletronicos-ChipStore)** | Ecommerce de eletrônicos desenvolvido para estudo de Front-End (em andamento) | HTML5, CSS3, JavaScript |
+| **[Jogo da Cobrinha em Pygame](https://github.com/VitorRovaniMarcelino/JogoDaCobrinhaPYGAME)** | Versão personalizada do clássico Snake, feita totalmente em Pygame | Python, Pygame |
+| **[Sistema de Inventário em Equipe](https://github.com/VitorRovaniMarcelino/ProjetoSGIE)** | CRUD completo usando JSON para armazenamento e gerenciamento colaborativo | Python, JSON |
 
 ---
 
