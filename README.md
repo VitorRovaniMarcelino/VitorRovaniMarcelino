@@ -52,8 +52,8 @@ Gosto de criar interfaces, lógicas inteligentes e bancos de dados bem organizad
 
 ## 📫 Como falar comigo
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Email](https://img.shields.io/badge/Email-8A8A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vrovanii/)
+[![Email](https://img.shields.io/badge/Email-8A8A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.marcelino031@gmail.com)
 
 ---
 
