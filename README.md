@@ -34,6 +34,7 @@ Gosto de criar interfaces, lógicas inteligentes e bancos de dados bem organizad
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | **[PokéDex com APIs](https://github.com/VitorRovaniMarcelino/Pokedex-API)** | Pokédex interativa consumindo dados da PokéAPI | JavaScript, Node.js, REST APIs |
+| **[Prova em Node.Js](https://github.com/VitorRovaniMarcelino/ProvaNodeJS)** | Prova prática utilizando Node e Javascript com objetivo de aprimorar meu conhecimento | JavaScript, Node.js, HTML5, CSS3 |
 | **[Ecommerce Eletrônicos](https://github.com/VitorRovaniMarcelino/EcommerceEletronicos-ChipStore)** | Ecommerce de eletrônicos desenvolvido para estudo de Front-End (em andamento) | HTML5, CSS3, JavaScript |
 | **[Jogo da Cobrinha em Pygame](https://github.com/VitorRovaniMarcelino/JogoDaCobrinhaPYGAME)** | Versão personalizada do clássico Snake, feita totalmente em Pygame | Python, Pygame |
 | **[Sistema de Inventário em Equipe](https://github.com/VitorRovaniMarcelino/ProjetoSGIE)** | CRUD completo usando JSON para armazenamento e gerenciamento colaborativo | Python, JSON |
