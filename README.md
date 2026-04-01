@@ -1,63 +1,117 @@
-# 👋 Olá! Eu sou Vitor Rovani
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Vitor%20Rovani%20Marcelino&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-Sou um desenvolvedor focado em **back-end**, **desenvolvimento web** e **criação de jogos 2D**.  
-Gosto de transformar ideias em projetos reais, estudar novas tecnologias e evoluir meus códigos a cada dia.
+<h1 align="center">Hi, I'm Vitor Rovani 👋</h1>
 
----
+<p align="center">
+💻 <b>Back-end Developer | APIs & Web Systems</b>
+</p>
 
-## 🚀 Tecnologias & Ferramentas
-
-<div style="display: flex; flex-wrap: wrap; gap: 8px;">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-4BFF4B?style=for-the-badge&logo=python&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+<p align="center">
+🎓 Systems Development Technician – SENAI <br>
+🚀 Focused on building real-world applications, REST APIs and structured backend systems
+</p>
 
 ---
 
-## 🎮 Sobre meus projetos
-Trabalho em aplicações reais, sistemas completos e jogos 2D interativos.  
-Gosto de criar interfaces, lógicas inteligentes e bancos de dados bem organizados.
+## 🚀 About Me  
+
+Back-end developer with hands-on experience building complete applications, APIs and data-driven systems.  
+
+Focused on writing clean, organized code and improving system architecture to create scalable and efficient solutions.  
+
+Currently expanding knowledge in front-end technologies to become more versatile in fullstack environments.  
 
 ---
 
-## 📦 Projetos em Destaque
+## 🛠 Tech Stack  
 
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| **[PokéDex com APIs](https://github.com/VitorRovaniMarcelino/Pokedex-API)** | Pokédex interativa consumindo dados da PokéAPI | JavaScript, Node.js, REST APIs |
-| **[Prova em Node.Js](https://github.com/VitorRovaniMarcelino/ProvaNodeJS)** | Prova prática utilizando Node e Javascript com objetivo de aprimorar meu conhecimento | JavaScript, Node.js, HTML5, CSS3 |
-| **[Ecommerce Eletrônicos](https://github.com/VitorRovaniMarcelino/EcommerceEletronicos-ChipStore)** | Ecommerce de eletrônicos desenvolvido para estudo de Front-End (em andamento) | HTML5, CSS3, JavaScript |
-| **[Jogo da Cobrinha em Pygame](https://github.com/VitorRovaniMarcelino/JogoDaCobrinhaPYGAME)** | Versão personalizada do clássico Snake, feita totalmente em Pygame | Python, Pygame |
-| **[Sistema de Inventário em Equipe](https://github.com/VitorRovaniMarcelino/ProjetoSGIE)** | CRUD completo usando JSON para armazenamento e gerenciamento colaborativo | Python, JSON |
+💻 **Languages**  
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,java"/>
+</p>
+
+📘 **Familiar With**  
+`C • Java (logic & fundamentals)`
+
+⚙️ **Back-end**  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+</p>
+
+🌐 **Front-end (Learning & Improving)**  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts"/>
+</p>
+
+🗄️ **Databases**  
+<p>
+<img src="https://skillicons.dev/icons?i=sqlite,mysql"/>
+</p>
+
+🧰 **Tools & Workflow**  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
+
+🤖 **Automation & Integrations**  
+`n8n (Workflow automation, APIs integration)`
+
+🔗 **Concepts**  
+`REST APIs` • `JSON` • `MVC Pattern`
+
 
 ---
 
-## 🧠 Habilidades Principais
-- Desenvolvimento **Back-end**  
-- Criação de **APIs**  
-- Gerenciamento de **bancos de dados**  
-- Sistemas CRUD completos  
-- Criação de **jogos 2D** com Pygame  
-- Boas práticas de código e organização
+## 📦 Projects  
+
+| Project | Description | Tech |
+|--------|------------|------|
+| **[PokéDex com APIs](https://github.com/VitorRovaniMarcelino/Pokedex-API)** | Interactive Pokédex consuming external API data with structured requests and dynamic rendering | JavaScript, Node.js, REST API |
+| **[Prova Node.js](https://github.com/VitorRovaniMarcelino/ProvaNodeJS)** | Backend-focused application demonstrating routing, logic handling and data manipulation | Node.js |
+| **[Snake Game (Pygame)](https://github.com/VitorRovaniMarcelino/JogoDaCobrinhaPYGAME)** | Classic game implementation focused on logic and interactivity | Python |
+| **[Inventory System](https://github.com/VitorRovaniMarcelino/ProjetoSGIE)** | Complete CRUD system with structured data management | Python, JSON |
 
 ---
 
-## 📫 Como falar comigo
+## 🧠 Skills  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vrovanii/)
-[![Email](https://img.shields.io/badge/Email-8A8A8A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitor.marcelino031@gmail.com)
+✔ REST API Development  
+✔ Database Modeling & Structuring  
+✔ CRUD Systems  
+✔ Backend Architecture (MVC)  
+✔ Data Handling & Business Logic  
+✔ API Integration  
 
 ---
 
-### 💬 Obrigado por visitar meu perfil!
-Se quiser ver mais projetos, dar feedback ou trocar ideias, fique à vontade.  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VitorRovaniMarcelino&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRovaniMarcelino&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VitorRovaniMarcelino&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Contact  
+
+<p align="center">
+<a href="https://www.instagram.com/vrovanii/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="mailto:vitor.marcelino031@gmail.com">
+<img src="https://img.shields.io/badge/Email-8A8A8A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+✨ Always building, always improving.
+</p>
