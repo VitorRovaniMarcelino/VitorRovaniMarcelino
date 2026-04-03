@@ -59,7 +59,7 @@ Currently expanding knowledge in front-end technologies to become more versatile
 `n8n (Workflow automation, APIs integration)`
 
 🔗 **Concepts**  
-`REST APIs` • `JSON` • `MVC Pattern`
+`REST APIs` • `JSON` • `MVC Pattern` • `Neural Networks (NEAT)` • `Machine Learning`
 
 
 ---
@@ -68,10 +68,11 @@ Currently expanding knowledge in front-end technologies to become more versatile
 
 | Project | Description | Tech |
 |--------|------------|------|
+| **[Flappy Bird AI Evolution](https://github.com/VitorRovaniMarcelino/FlappyBirdPYGAME)** | Neural Network that evolves to master Flappy Bird using NEAT algorithm, featuring dynamic moving obstacles | Python, NEAT, Pygame |
 | **[PokéDex com APIs](https://github.com/VitorRovaniMarcelino/Pokedex-API)** | Interactive Pokédex consuming external API data with structured requests and dynamic rendering | JavaScript, Node.js, REST API |
-| **[Prova Node.js](https://github.com/VitorRovaniMarcelino/ProvaNodeJS)** | Backend-focused application demonstrating routing, logic handling and data manipulation | Node.js |
 | **[Snake Game (Pygame)](https://github.com/VitorRovaniMarcelino/JogoDaCobrinhaPYGAME)** | Classic game implementation focused on logic and interactivity | Python |
 | **[Inventory System](https://github.com/VitorRovaniMarcelino/ProjetoSGIE)** | Complete CRUD system with structured data management | Python, JSON |
+| **[Prova Node.js](https://github.com/VitorRovaniMarcelino/ProvaNodeJS)** | Backend-focused application demonstrating routing, logic handling and data manipulation | Node.js |
 
 ---
 
@@ -83,8 +84,11 @@ Currently expanding knowledge in front-end technologies to become more versatile
 ✔ Backend Architecture (MVC)  
 ✔ Data Handling & Business Logic  
 ✔ API Integration  
+✔ Genetic Algorithms & NeuroEvolution  
 
 ---
+
+## 📊 GitHub Stats  
 
 <p align="center">
   <!-- Estatísticas Gerais -->
