@@ -86,15 +86,16 @@ Currently expanding knowledge in front-end technologies to become more versatile
 
 ---
 
-## 📊 GitHub Stats  
-
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VitorRovaniMarcelino&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorRovaniMarcelino&layout=compact&theme=tokyonight&hide_border=true"/>
+  <!-- Estatísticas Gerais -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VitorRovaniMarcelino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <!-- Linguagens mais usadas -->
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VitorRovaniMarcelino&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=VitorRovaniMarcelino&theme=tokyonight&hide_border=true"/>
+  <!-- Streak Stats (O que estava funcionando, mantive) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorRovaniMarcelino&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
